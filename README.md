@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @SomeshPandey
+- 👋 Hi, I’m Someshwar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ...web development 
+- 🌱 I’m currently learning...(html, css, javascript, react, nodejs)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mrjarvis149@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 SomesPandey25/SomesPandey25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
